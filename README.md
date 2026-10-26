@@ -2,7 +2,7 @@
   <img src="Logo.png" alt="MakeTurkeyGreatAgain Logo" width="250">
 </p>
 
-# MakeTurkeyGreatAgain 🇹🇷
+# MakeTurkeyGreatAgain 
 
 **Your internet. Your privacy. Your freedom.**
 
